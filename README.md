@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+![logo](https://github.com/Jheimys/Organo_II/assets/80724830/2b87d68b-1d93-4f99-b337-63fcca82ef31) <h1 align=center> ORGANO II</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bem vindo! 👋
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
+![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-In the project directory, you can run:
+Obrigado pela visita e fique a vontade!
 
-### `npm start`
+Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Descrição do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O Organo II foi desenvolvido para trazer novas funcionalidades a sua primeira versão. Agora além de poder cadastrar colaboradores em seus respectivos "TIMES", podemos criar novos times e estilizar como usuário preferir. Para Isso foi criado um novo formulário com um campo de "NOME" para criar o nome do novo Time e outro campo de "COR" que possibilita escolher a cor para esse novo Time.
 
-### `npm test`
+O React foi a tecnologia princpial usada no projeto, nele busquei aprimorar meus conhecimentos de criação e estilização de componetes e
+gerenciamento de estado com UseState.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/OrganoIIform.png'>
+  </p>
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/oganoiifunc.png'>
+  </p>
 
-### `npm run build`
+# Status do Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> :trophy: Finalizado ::trophy:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Funcionalidades do projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:hammer: `Funcionalidade 1`: cadastro de colaboradores em sua Equipe.
 
-### `npm run eject`
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organo-gif-maker.gif'>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:hammer: `Funcionalidade 2`: Criar novas Equipes.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIInovotime.gif'>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+:hammer: `Funcionalidade 3`: Fexibilidade para criar novos estilos para as equipes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIIstyle.gif'>
+</p>
 
-## Learn More
+# Tecnologias:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:heavy_check_mark: HTML
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:heavy_check_mark:CSS
 
-### Code Splitting
+:heavy_check_mark: JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:heavy_check_mark: React
 
-### Analyzing the Bundle Size
+# Acesso ao projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+:link: https://organo-ii.vercel.app/
 
-### Making a Progressive Web App
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![img](https://github.com/Jheimys.png?size=100)
 
-### Advanced Configuration
+James Bezerra Bassani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Have fun building!** 🚀
