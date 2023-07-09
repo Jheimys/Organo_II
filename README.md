@@ -11,10 +11,9 @@ Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
 # Descrição do Projeto
 
-O Organo II foi desenvolvido para trazer novas funcionalidades a sua primeira versão. Agora além de poder cadastrar colaboradores em seus respectivos "TIMES", podemos criar novos times e estilizar como usuário preferir. Para Isso foi criado um novo formulário com um campo de "NOME" para criar o nome do novo Time e outro campo de "COR" que possibilita escolher a cor para esse novo Time.
+O Organo II foi desenvolvido para trazer novas funcionalidades a sua primeira versão. Agora além de poder cadastrar colaboradores em seus respectivos "TIMES", podemos criar novos horários e estilizar como usuário preferir. Para isso foi criado um novo formulário com um campo de "NOME" para criar o nome do novo Time e outro campo de "COR" que possibilita escolher um cor para esse novo Time.
 
-O React foi a tecnologia princpial usada no projeto, nele busquei aprimorar meus conhecimentos de criação e estilização de componetes e
-gerenciamento de estado com UseState.
+O React foi a principal tecnologia usada no projeto, nele busquei aprimorou meus conhecimentos de criação e estilização de componentes e gerenciamento de estado com UseState.gerenciamento de estado com UseState.
 
   <p align=center>
     <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/OrganoIIform.png'>
